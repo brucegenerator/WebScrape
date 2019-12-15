@@ -1,5 +1,4 @@
 # NewsScraper
-Mongo News Scraper App for HW14 UMN Coding Bootcamp
 
 The News Scraper Application scrapes articles from the NPR News homepage and displays the headline, image, and summary on the application's home page. If the user clicks on the article headline, the original article will open in a separate window. If the "Scrape New Articles" button is pressed, the application will scrape any new articles that have been published on the NPR News site, and delete any old unsaved articles that are no longer featured. 
 
