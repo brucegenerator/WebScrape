@@ -11,4 +11,4 @@ This application uses Mongo DB and Mongoose to save article and note data, and H
 node server.js
 `
 
-The application can also be accessed via the deployed Heroku page: https://rocky-lake-72767.herokuapp.com/
+The application can also be accessed via the deployed Heroku page: https://glacial-fortress-91201.herokuapp.com/
